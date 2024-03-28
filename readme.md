@@ -4,9 +4,11 @@ Udemy向けFastAPI基本講座で扱ったコードです。
 
 git clone https://github.com/aokitashipro/udemy_fastapi_basic.git
 
-cd udemy_fastapi_basic
+cd udemy_fastapi_basic # フォルダ移動
 
-pip instal -r requirements.txt
+. .venv/bin/activate # 仮想環境 有効化
+
+pip instal -r requirements.txt # パッケージインストール
 
 ## uvicornの起動
 
