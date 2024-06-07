@@ -8,7 +8,7 @@ cd udemy_fastapi_basic # フォルダ移動
 
 . .venv/bin/activate # 仮想環境 有効化
 
-pip instal -r requirements.txt # パッケージインストール
+pip install -r requirements.txt # パッケージインストール
 
 ## uvicornの起動
 
